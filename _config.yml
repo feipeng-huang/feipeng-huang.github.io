@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Feipeng Huang"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate, Department of Environmental Conservation, UMass Amherst"
+  bio              : "PhD Candidate"
   location         : 
-  employer         : 
+  employer         : "Department of Environmental Conservation, UMass Amherst"
   uri              : # URL
-  email            : "feipenghuang@umass.edu" 
+  email            : 
 
   # Academic websites
   academia         : # URL
