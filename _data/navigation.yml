@@ -25,7 +25,7 @@ main:
     
   - title: "CV"
   #  url: /cv/
-  url: /files/huang_cv_aug2026.pdf
+    url: /files/huang_cv_aug2026.pdf
     
   # - title: "CV"
   #   url: /cv-json/
