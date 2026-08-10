@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
 ---
 
 {% include base_path %}
 
+## Peer-reviewed Publications
 
 **2026**
 
