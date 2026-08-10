@@ -14,7 +14,7 @@ Contact: feipenghuang@umass.edu
 ## News
 
 ### August 2026
-It was wonderful to welcome old and new friends to UMass Amherst for the American Ornithological Society (AOS) 2026 meeting! I presented the talk, “Navigating Danger: How Hudsonian Godwit Chicks Respond to Their Landscape of Fear.” Mark Titus presented his poster, “What’s Delaying Godwit Migration - Is the Answer Hiding in Their Feathers?” Mark started working with me on this project in 2024 and has been my field tech for the past two summers.
+It was wonderful to welcome old and new friends to UMass Amherst for the American Ornithological Society (AOS) 2026 meeting! I presented the talk, *Navigating Danger: How Hudsonian Godwit Chicks Respond to Their Landscape of Fear*. Mark Titus presented his poster, *What’s Delaying Godwit Migration - Is the Answer Hiding in Their Feathers?* Mark started working with me on this project in 2024 and has been my field tech for the past two summers.
 
 ### July 2026
 The 2026 field season concluded with finding 10 flying chicks - the highest survival since my first season in 2022!
