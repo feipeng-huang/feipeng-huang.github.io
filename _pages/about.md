@@ -9,6 +9,10 @@ redirect_from:
 
 I am a PhD Candidate working with [Nathan Senner](http://www.sennerlab.com/) in the Department of Environmental Conservation at the University of Massachusetts Amherst. My research aims to understand how local conditions, predation risk, and the shorebird community shape the movement behavior and success of Hudsonian Godwit chicks. I feel incredibly lucky to spend my summers on the subarctic shorebird breeding grounds and to contribute to long-term studies of shorebird migration, demography, and breeding success.
 
+<p align="center">
+  <img src="/images/HUGO_for_web.jpg" alt="Hudsonian Godwit chick" width="500">
+</p>
+
 I grew up by the Yellow Sea, where I watched shorebirds use the region's shrinking wetlands and found my passion for birds and conservation. Prior to graduate school, I completed my undergraduate degree in Wildlife, Fish, and Conservation Biology at the University of California, Davis from 2018 to 2022.
 
 I am a lifelong birder and enjoy [eBird](https://ebird.org/profile/NzMwNjE3) and [iNaturalist](https://www.inaturalist.org/people/feipenghuang). I love visiting [zoos](https://earth.google.com/earth/d/1CqdXVRN5cH5f6hwJjbmLc_wMujBjac0z?usp=sharing) and museums and being inspired by how they tell stories through exhibit design. 
