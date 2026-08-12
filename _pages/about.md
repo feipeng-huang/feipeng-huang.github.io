@@ -11,7 +11,7 @@ I am a PhD Candidate working with [Nathan Senner](http://www.sennerlab.com/) in 
 
 I grew up by the Yellow Sea, where I watched shorebirds use the region's shrinking wetlands and found my passion for birds and conservation. Prior to graduate school, I completed my undergraduate degree in Wildlife, Fish, and Conservation Biology at the University of California, Davis from 2018 to 2022.
 
-I am a lifelong birder and enjoy [eBird](https://ebird.org/profile/NzMwNjE3) and [iNaturalist](https://www.inaturalist.org/people/feipenghuang). I love [zoos](https://earth.google.com/earth/d/1CqdXVRN5cH5f6hwJjbmLc_wMujBjac0z?usp=sharing) and museums and am often inspired by how they tell stories through exhibit design. 
+I am a lifelong birder and enjoy [eBird](https://ebird.org/profile/NzMwNjE3) and [iNaturalist](https://www.inaturalist.org/people/feipenghuang). I love visiting [zoos](https://earth.google.com/earth/d/1CqdXVRN5cH5f6hwJjbmLc_wMujBjac0z?usp=sharing) and museums and being inspired by how they tell stories through exhibit design. 
 
 I am part of the Bird Safe UMass Team. If you find a dead bird on UMass Amherst campus, please report it here <a href = "https://survey123.arcgis.com/share/baaeac377ed44a86967c9ea52619624e" target="_blank">[link]</a> I salvage birds and prepare them as study skins or spread wings for the UMass Natural History Collection.
 
