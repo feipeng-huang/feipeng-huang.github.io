@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate working with [Nathan Senner](http://www.sennerlab.com/) in the Department of Environmental Conservation at the University of Massachusetts Amherst. My research aims to understand how local conditions, predation risk, and the shorebird community shape the movement behavior and success of Hudsonian Godwit chicks. I feel incredibly lucky to spend my summers on the subarctic shorebird breeding grounds and to contribute to long-term studies of shorebird migration, demography, and breeding success.
+I am a PhD Candidate working with [Nathan Senner](http://www.sennerlab.com/) in the Department of Environmental Conservation at the University of Massachusetts Amherst. My research aims to understand how local conditions, predation risk, and interactions with the broader shorebird community shape the movement behavior and success of Hudsonian Godwit chicks. I feel incredibly lucky to conduct fieldwork on the subarctic shorebird breeding grounds and to contribute to long-term studies of shorebird migration, demography, and breeding biology.
 
 <p align="center">
   <img src="/images/HUGO_for_web.jpg" alt="Hudsonian Godwit chick" width="500">
@@ -17,7 +17,7 @@ I grew up by the Yellow Sea, where I watched shorebirds use the region's shrinki
 
 I am a lifelong birder and enjoy [eBird](https://ebird.org/profile/NzMwNjE3) and [iNaturalist](https://www.inaturalist.org/people/feipenghuang). I love visiting [zoos](https://earth.google.com/earth/d/1CqdXVRN5cH5f6hwJjbmLc_wMujBjac0z?usp=sharing) and museums and being inspired by how they tell stories through exhibit design. 
 
-I am part of the Bird Safe UMass Team. If you find a dead bird on UMass Amherst campus, please report it here <a href = "https://survey123.arcgis.com/share/baaeac377ed44a86967c9ea52619624e" target="_blank">[link]</a> I salvage dead birds and prepare them as study skins or spread wings for the UMass Natural History Collection.
+I am part of the Bird Safe UMass Team. If you find a dead bird on UMass Amherst campus, please report it here <a href = "https://survey123.arcgis.com/share/baaeac377ed44a86967c9ea52619624e" target="_blank">[link]</a> I salvage dead birds and prepare them as study skins or spread wings for the UMass Natural History Collections.
 
 Contact: feipenghuang@umass.edu
 
