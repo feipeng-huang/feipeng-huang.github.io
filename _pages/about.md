@@ -13,7 +13,7 @@ I am a PhD Candidate working with [Nathan Senner](http://www.sennerlab.com/) in 
   <img src="/images/HUGO_for_web.jpg" alt="Hudsonian Godwit chick" width="500">
 </p>
 
-I grew up by the Yellow Sea, where I watched shorebirds use the region's shrinking wetlands and found my passion for birds and conservation. Prior to graduate school, I completed my undergraduate degree in Wildlife, Fish, and Conservation Biology at the University of California, Davis from 2018 to 2022.
+I grew up by the Yellow Sea, where I watched shorebirds use the region's shrinking wetlands and found my passion for birds and conservation. Prior to graduate school, I completed my undergraduate degree in Wildlife, Fish, and Conservation Biology at the University of California, Davis from 2018 to 2022. In fall 2020 and spring 2021, while classes were online, I led raptor migration counts at Guantouling in southern China for the conservation NGO Guangxi Biodiversity Research and Conservation Association and joined Dan Liang's crew to monitor shorebird bycatch along China's coast. These became some of my most cherished experiences.
 
 I am a lifelong birder and enjoy [eBird](https://ebird.org/profile/NzMwNjE3) and [iNaturalist](https://www.inaturalist.org/people/feipenghuang). I love visiting [zoos](https://earth.google.com/earth/d/1CqdXVRN5cH5f6hwJjbmLc_wMujBjac0z?usp=sharing) and museums and being inspired by how they tell stories through exhibit design. 
 
@@ -30,6 +30,9 @@ It was wonderful to welcome old and new friends to UMass Amherst for the America
 
 ### July 2026
 The 2026 field season concluded with finding 8 flying chicks (out of the 57 we banded) - the highest survival since my first season in 2022!
+
+### May 2026
+I returned to Beluga, Alaska for my fifth field season!
 
 ### April 2026
 My first first-author paper is out in Behavioral Ecology! <a href = "https://academic.oup.com/beheco/article-abstract/37/3/arag035/8606990" target="_blank">[link]</a> We found that, despite their larger adult size, female Hudsonian Godwit chicks did not grow faster than males early in life when their invertebrate prey was more abundant. Females must therefore grow faster during and after their third week of life, a period when local invertebrate abundance is rapidly declining.
