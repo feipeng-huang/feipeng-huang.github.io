@@ -24,6 +24,8 @@ Contact: feipenghuang@umass.edu
 ## News
 
 ### August 2026
+I attended China’s first seabird meeting, right in my hometown Qingdao! As part of the field trip, I revisited Dagong Island, where I helped catch the first tracked Streaked Shearwater in China six years ago. It was great to see how much my colleagues have learned since then and how much attention seabird research and conservation are receiving. Plus, the shearwaters and storm petrels were on full show at sea, and the island tour was concluded with a rare flyover Lesser Frigatebird!
+
 I surveyed Longmeadow Sandbar with Paul and James as part of the 2026 Massachusetts Shorebird Blitz!
 
 It was wonderful to welcome old and new friends to UMass Amherst for the American Ornithological Society 2026 meeting! I presented the talk "Navigating Danger: How Hudsonian Godwit Chicks Respond to Their Landscape of Fear". Mark Titus presented his poster "What’s Delaying Godwit Migration - Is the Answer Hiding in Their Feathers?" Mark started working on this project with me in 2024 and was on my field crew for the past two summers.
