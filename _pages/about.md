@@ -17,7 +17,7 @@ I grew up by the Yellow Sea, where I watched shorebirds use the region's shrinki
 
 <p align="center"> <img src="/images/bycatch_for_web.jpg" alt="Bycatch survey" width="500"> </p>
 
-<p align="center"> <em>Checking nets for fish and shorebird bycatch with a fisherman in Bohai Bay, China.</em> </p>
+<p align="center"> <em>Checking nets for fish and shorebird bycatch with a fisherman in Bohai Bay, China. Photo by Dan Liang</em> </p>
 
 I am a lifelong birder and enjoy [eBird](https://ebird.org/profile/NzMwNjE3) and [iNaturalist](https://www.inaturalist.org/people/feipenghuang). I love visiting [zoos](https://earth.google.com/earth/d/1CqdXVRN5cH5f6hwJjbmLc_wMujBjac0z?usp=sharing) and museums and being inspired by how they tell stories through exhibit design. 
 
