@@ -9,11 +9,15 @@ redirect_from:
 
 I am a PhD Candidate working with [Nathan Senner](http://www.sennerlab.com/) in the Department of Environmental Conservation at the University of Massachusetts Amherst. My research aims to understand how local conditions, predation risk, and interactions with the broader shorebird community shape the movement behavior and success of Hudsonian Godwit chicks. I feel incredibly lucky to conduct fieldwork on the subarctic shorebird breeding grounds and to contribute to long-term studies of shorebird migration, demography, and breeding biology.
 
-<p align="center">
-  <img src="/images/HUGO_for_web.jpg" alt="Hudsonian Godwit chick" width="500">
-</p>
+<p align="center"> <img src="/images/HUGO_for_web.jpg" alt="Hudsonian Godwit" width="500"> </p>
+
+<p align="center"> <em>Hudsonian Godwit (Limosa haemastica) chick, fledgling, adults, and the beautiful Beluga, Alaska.</em> </p>
 
 I grew up by the Yellow Sea, where I watched shorebirds use the region's shrinking wetlands and found my passion for birds and conservation. Prior to graduate school, I completed my undergraduate degree in Wildlife, Fish, and Conservation Biology at the University of California, Davis from 2018 to 2022. In fall 2020 and spring 2021, while classes were online, I led raptor migration counts at Guantouling in southern China for the conservation NGO Guangxi Biodiversity Research and Conservation Association and joined Dan Liang's crew to monitor shorebird bycatch along China's coast. These became some of my most cherished experiences.
+
+<p align="center"> <img src="/images/bycatch_for_web.jpg" alt="Bycatch survey" width="500"> </p>
+
+<p align="center"> <em>Checking nets for fish and shorebird bycatch with a fisherman in Bohai Bay, China.</em> </p>
 
 I am a lifelong birder and enjoy [eBird](https://ebird.org/profile/NzMwNjE3) and [iNaturalist](https://www.inaturalist.org/people/feipenghuang). I love visiting [zoos](https://earth.google.com/earth/d/1CqdXVRN5cH5f6hwJjbmLc_wMujBjac0z?usp=sharing) and museums and being inspired by how they tell stories through exhibit design. 
 
