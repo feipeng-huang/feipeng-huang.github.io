@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-## Peer-reviewed Publications
+## Coming soon
