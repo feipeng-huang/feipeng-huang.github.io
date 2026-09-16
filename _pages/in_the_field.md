@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /publications/
-title: "Publications"
+permalink: /in_the_field/
+title: "In the field"
 author_profile: true
 ---
 
