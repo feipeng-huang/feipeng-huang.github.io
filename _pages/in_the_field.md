@@ -8,3 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Coming soon
+
+## Qinghai 2026
+
+<p align="center"> <img src="/images/Mongolian Ground Jay.jpg" alt="Mongolian Ground Jay" width="500"> </p>
+
+<p align="center"> <em>A group of five Mongolian Ground Jays feeding on the fruits of nitre bushes.</em> </p>
