@@ -15,5 +15,8 @@ author_profile: true
 
 <p align="center"> <img src="/images/Przewalski's Gazelle.jpg" alt="Przewalski's Gazelle" width="500"> </p>
 
-<p align="center"> <em>A male Przewalski's Gazelle trapped within a fenced landscape near Qinghai Lake.</em> </p>
+<p align="center"> <em>A male Przewalski's Gazelle trapped within a fenced landscape.</em> </p>
 
+<p align="center"> <img src="/images/Pale Rosefinch.jpg" alt="Pale Rosefinch" width="500"> </p>
+
+<p align="center"> <em>A post-breeding male Pale Rosefinch.</em> </p>
