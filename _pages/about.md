@@ -28,6 +28,8 @@ Contact: feipenghuang@umass.edu
 ## News
 
 ### September 2026
+New species (#60-63) to the bird-window collision project: Sora, Mourning Warbler, Palm Warbler, Bay-breasted Warbler :(
+
 I joined my labmate Laura’s crew for a day on the Cape catching Willets, and we were successful!
 
 ### August 2026
