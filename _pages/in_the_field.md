@@ -23,6 +23,10 @@ author_profile: true
 
 ### Shorebirds 2025
 
+<p align="center"> <img src="/images/AMGP.jpg" alt="AMGP" width="500"> </p>
+
+<p align="center"> <em>A fresh juvenile American Golden-Plover at the Plymouth Beach.</em> </p>
+
 <p align="center"> <img src="/images/AMOY.jpg" alt="AMOY" width="500"> </p>
 
 <p align="center"> <em>Oystercatcher chicks are much more dependent compared with many other shorebirds.</em> </p>
