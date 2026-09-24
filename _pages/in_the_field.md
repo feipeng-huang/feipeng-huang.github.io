@@ -26,3 +26,9 @@ author_profile: true
 <p align="center"> <img src="/images/AMOY.jpg" alt="AMOY" width="500"> </p>
 
 <p align="center"> <em>Oystercatcher chicks are much more dependent compared with many other shorebirds.</em> </p>
+
+### Shorebirds 2024
+
+<p align="center"> <img src="/images/PUSA.jpg" alt="PUSA" width="500"> </p>
+
+<p align="center"> <em>Purple Sandpiper, an iconic winter New England shorebird.</em> </p>
