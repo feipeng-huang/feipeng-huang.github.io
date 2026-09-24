@@ -20,3 +20,9 @@ author_profile: true
 <p align="center"> <img src="/images/Przewalski's Gazelle.jpg" alt="Przewalski's Gazelle" width="500"> </p>
 
 <p align="center"> <em>A male Przewalski's Gazelle on a fenced landscape.</em> </p>
+
+### Shorebirds 2025
+
+<p align="center"> <img src="/images/AMOY.jpg" alt="AMOY" width="500"> </p>
+
+<p align="center"> <em>Oystercatcher chicks are much more dependent compared with many other shorebirds.</em> </p>
