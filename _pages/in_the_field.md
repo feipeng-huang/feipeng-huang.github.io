@@ -40,3 +40,7 @@ author_profile: true
 <p align="center"> <img src="/images/SESA.jpg" alt="SESA" width="500"> </p>
 
 <p align="center"> <em>Semipalmated Sandpiper spectacle at the Bay of Fundy. Seen during the Western Hemisphere Shorebird Group (WHSG) meeting.</em> </p>
+
+<p align="center"> <img src="/images/WIPL.jpg" alt="WIPL" width="500"> </p>
+
+<p align="center"> <em>Wilson's Plover at Tampa Bay.</em> </p>
