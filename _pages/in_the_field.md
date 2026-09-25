@@ -33,13 +33,17 @@ author_profile: true
 
 ### Shorebirds 2024
 
-<p align="center"> <img src="/images/PUSA.jpg" alt="PUSA" width="500"> </p>
-
-<p align="center"> <em>Purple Sandpiper, an iconic winter New England shorebird.</em> </p>
-
 <p align="center"> <img src="/images/SESA.jpg" alt="SESA" width="500"> </p>
 
 <p align="center"> <em>Semipalmated Sandpiper spectacle at the Bay of Fundy. Seen during the Western Hemisphere Shorebird Group (WHSG) meeting.</em> </p>
+
+<p align="center"> <img src="/images/PESA.jpg" alt="PESA" width="500"> </p>
+
+<p align="center"> <em>Pectoral Sandpiper in a rain puddle.</em> </p>
+
+<p align="center"> <img src="/images/PUSA.jpg" alt="PUSA" width="500"> </p>
+
+<p align="center"> <em>Purple Sandpiper, an iconic winter New England shorebird.</em> </p>
 
 <p align="center"> <img src="/images/WIPL.jpg" alt="WIPL" width="500"> </p>
 
