@@ -39,7 +39,7 @@ author_profile: true
 
 <p align="center"> <img src="/images/PESA.jpg" alt="PESA" width="500"> </p>
 
-<p align="center"> <em>Pectoral Sandpiper in a rain puddle.</em> </p>
+<p align="center"> <em>Pectoral Sandpiper in a rain puddle before continuing south.</em> </p>
 
 <p align="center"> <img src="/images/PUSA.jpg" alt="PUSA" width="500"> </p>
 
@@ -47,4 +47,4 @@ author_profile: true
 
 <p align="center"> <img src="/images/WIPL.jpg" alt="WIPL" width="500"> </p>
 
-<p align="center"> <em>Wilson's Plover at Tampa Bay.</em> </p>
+<p align="center"> <em>Wintering Wilson's Plover at Tampa Bay.</em> </p>
