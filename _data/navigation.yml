@@ -25,13 +25,13 @@ main:
 
   - title: "In the field"
     url: /in_the_field/
-
-  - title: "Save Shorebirds!"
-    url: /save_shorebirds/
     
   - title: "CV"
   #  url: /cv/
     url: /files/huang_cv_aug2026.pdf
+
+  - title: "Save Shorebirds!"
+    url: /save_shorebirds/
     
   # - title: "CV"
   #   url: /cv-json/
