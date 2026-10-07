@@ -16,7 +16,9 @@ Researchers mark shorebirds with leg flags/bands for individual identification. 
 
 [American Oystercatcher](https://amoywg.org/resighting-and-reporting-bands/)
 
-<p align="center"> <em>2YH, a Hudsonian Godwit hatched in Beluga, Alaska, on June 8, was resighted on the other side of the globe in Caldera, Chile, on November 7. Its first-ever migration was a success!</em> </p>
+<p align="center"> <img src="/images/2YH_resight.png" alt="2YH resight" width="500"> </p>
+
+<p align="center"> <em>2YH, a Hudsonian Godwit hatched in Beluga, Alaska, on June 8, <a href="https://ebird.org/checklist/S283362156">resighted on the other side of the globe in Caldera, Chile, on November 7</a>. Its first-ever migration was a success!</em> </p>
 
 <p align="center"> <img src="/images/AMOY_band_database.png" alt="AMOY_band_database" width="500"> </p>
 
