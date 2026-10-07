@@ -15,6 +15,8 @@ author_profile: true
 
 [2] **Huang, F.**, C. Tyson, B.R. Addis, C. Elowe, L. Puleo, S. Saint-Juste, M. Stager, R.J. Swift, L. Wilde, and N.R. Senner. 2026. Growth, movement, and survival of precocial shorebird chicks are constrained by local conditions. Behavioral Ecology, 37(3), arag035. <a href = "https://academic.oup.com/beheco/article-abstract/37/3/arag035/8606990?redirectedFrom=fulltext" target="_blank">[link]</a>
 
+**2025**
+
 [1] Puleo, L., **F. Huang**, M. Stager, and N.R. Senner. 2025. Flexibility in the face of climate change? A rapid and dramatic shift toward later spring migration in Hudsonian Godwits (*Limosa haemastica*). Proceedings B, 292 (2051): 20250982. <a href = "https://royalsocietypublishing.org/rspb/article/292/2051/20250982/234635/Flexibility-in-the-face-of-climate-change-A-rapid" target="_blank">[link]</a>
 
 ## Community Science Reports
