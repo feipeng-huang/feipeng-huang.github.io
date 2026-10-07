@@ -34,7 +34,7 @@ Report banded American Oystercatchers directly to the [American Oystercatcher Wo
 Massachusetts Shorebird Blitz
 
 ### *See shorebirds up close at AZA-accredited zoos and aquariums that care for rescued shorebirds!*
-[Monterey Bay Aquarium](https://www.montereybayaquarium.org/visit/exhibits/sandy-shore-aviary) - wonderful aviary with an ocean backdrop, showcasing the entire coastal system - from shallow seas and sandy dunes to marshes
+[Monterey Bay Aquarium](https://www.montereybayaquarium.org/visit/exhibits/sandy-shore-aviary) - wonderful aviary with an ocean backdrop, showcasing the entire coastal system from shallow seas to sand dunes to marshes
 
 [National Zoo](https://nationalzoo.si.edu/animals/exhibits/bird-house?tab=1) - Delaware Bay-themed aviary in the historic bird house 
 
