@@ -7,12 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+### Shorebirds are amazing but in steep decline. How can we help?
+
 ### Report banded shorebirds
 Researchers mark shorebirds with leg flags/bands for individual identification. Keep an eye out for banded shorebirds and help us learn where they go, how long they live, and much more!
 
 [All birds](https://www.usgs.gov/labs/bird-banding-laboratory/science/report-a-band)
 
 [American Oystercatcher](https://amoywg.org/resighting-and-reporting-bands/)
+
+<p align="center"> <em>2YH, a Hudsonian Godwit hatched in Beluga, Alaska, on June 8, was resighted on the other side of the globe in Caldera, Chile, on November 7. Its first-ever migration was a success!</em> </p>
+
+<p align="center"> <img src="/images/AMOY_band_database.png" alt="AMOY_band_database" width="500"> </p>
+
+<p align="center"> <em>The American Oystercatcher Working Group has a great interface where you can look up when and where the bird you report was banded and its history of resightings.</em> </p>
 
 ### Walk around roosting shorebirds and keep your dog on a leash
 Shorebirds need to rest and refuel during migration. When flushed, they waste energy they need for the next leg of their journey.
