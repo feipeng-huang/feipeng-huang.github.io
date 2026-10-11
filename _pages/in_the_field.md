@@ -55,10 +55,6 @@ author_profile: true
 
 <p align="center"> <em>A female pronghorn at sunset in Antelope Island State Park.</em> </p>
 
-<p align="center"> <img src="/images/yolo_bypass.jpg" alt="yolo bypass" width="500"> </p>
-
-<p align="center"> <em>A flock of dowitchers at Yolo Bypass Wildlife Area in Davis, CA.</em> </p>
-
 ### Shorebird bycatch fieldwork, 2021
 
 <p align="center"> <img src="/images/BTGO.jpg" alt="Bar-tailed Godwits" width="500"> </p>
