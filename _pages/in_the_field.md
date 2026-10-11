@@ -49,7 +49,7 @@ author_profile: true
 
 <p align="center"> <em>Wintering Wilson's Plover at Tampa Bay.</em> </p>
 
-### The West, 2022 and Earlier
+### The West, 2022 and earlier
 
 <p align="center"> <img src="/images/pronghorn.jpg" alt="pronghorn" width="500"> </p>
 
@@ -58,3 +58,14 @@ author_profile: true
 <p align="center"> <img src="/images/yolo_bypass.jpg" alt="yolo bypass" width="500"> </p>
 
 <p align="center"> <em>A flock of dowitchers at Yolo Bypass Wildlife Area in Davis, CA.</em> </p>
+
+### Shorebird bycatch fieldwork, 2021
+
+<p align="center"> <img src="/images/BTGO.jpg" alt="Bar-tailed Godwits" width="500"> </p>
+
+<p align="center"> <em>A flock of Bar-tailed Godwits and a fisherman hard at work, with invisible nets in between.</em> </p>
+
+<p align="center"> <img src="/images/east_asian_finless_porpoise.jpg" alt="East Asian Finless Porpoise" width="500"> </p>
+
+<p align="center"> <em>An East Asian finless porpoise on the mudflat, likely discarded after being caught as bycatch.</em> </p>
+
