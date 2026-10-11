@@ -48,3 +48,13 @@ author_profile: true
 <p align="center"> <img src="/images/WIPL.jpg" alt="WIPL" width="500"> </p>
 
 <p align="center"> <em>Wintering Wilson's Plover at Tampa Bay.</em> </p>
+
+### The West, 2022 and Earlier
+
+<p align="center"> <img src="/images/pronghorn.jpg" alt="pronghorn" width="500"> </p>
+
+<p align="center"> <em>A female pronghorn at sunset in Antelope Island State Park.</em> </p>
+
+<p align="center"> <img src="/images/yolo_bypass.jpg" alt="yolo bypass" width="500"> </p>
+
+<p align="center"> <em>A flock of dowitchers at Yolo Bypass Wildlife Area in Davis, CA.</em> </p>
