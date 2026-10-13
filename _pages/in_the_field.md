@@ -21,6 +21,10 @@ author_profile: true
 
 <p align="center"> <em>A male Przewalski's Gazelle on a fenced landscape.</em> </p>
 
+<p align="center"> <img src="/images/pallas's_cat.jpg" alt="Pallas's Cat" width="500"> </p>
+
+<p align="center"> <em>Three Pallas’s cat kittens blending in well with their rocky playground.</em> </p>
+
 ### Shorebirds 2025
 
 <p align="center"> <img src="/images/AMGP.jpg" alt="AMGP" width="500"> </p>
