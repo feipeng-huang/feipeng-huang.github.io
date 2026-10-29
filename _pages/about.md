@@ -27,6 +27,9 @@ Contact: feipenghuang@umass.edu
 
 ## News
 
+### October 2026
+Fun to teach new grad students about data management, hiring, mentoring, and fieldwork risk and safety!
+
 ### September 2026
 James Teitgen presented his poster “Does Encountering Drought During Migration Affect Survival in Hudsonian Godwits?” at the Center for Agriculture, Food, and the Environment (CAFE)’s Summer Scholars Poster Presentation. James started working with me in Alaska this summer thanks to funding from CAFE.
 
