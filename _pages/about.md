@@ -33,7 +33,7 @@ Fun to teach new grad students about data management, hiring, mentoring, and fie
 ### September 2026
 James Teitgen presented his poster “Does Encountering Drought During Migration Affect Survival in Hudsonian Godwits?” at the Center for Agriculture, Food, and the Environment (CAFE)’s Summer Scholars Poster Presentation. James started working with me in Alaska this summer thanks to funding from CAFE.
 
-New species (#60-63) to the bird-window collision project: Sora, Mourning Warbler, Palm Warbler, Bay-breasted Warbler :(
+New species (#60-63) to the bird-window collision project: Mourning Warbler, Palm Warbler, Bay-breasted Warbler :(
 
 I joined my labmate Laura’s crew for a day on the Cape catching Willets, and we were successful!
 
