@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Shorebirds are amazing but in steep decline. How can we help?
-This list is still being developed and is U.S. biased.
+This list is still being developed and is currently U.S. biased.
 
 ### *Walk around roosting shorebirds and keep your dog on a leash!*
 *Shorebirds need to rest and refuel during migration. When flushed, they waste energy they need for the next leg of their journey.*
@@ -40,7 +40,5 @@ Massachusetts Shorebird Blitz
 
 ### *Support government agencies and nonprofit organizations working on shorebird research and conservation!*
 [U.S. Fish & Wildlife Service Alaska Migratory Birds Office](https://www.fws.gov/office/alaska-migratory-birds/shorebirds-alaska)
-
-[The Smithsonian Migratory Bird Center](https://nationalzoo.si.edu/migratory-birds/shorebird-collective)
 
 [Manomet Conservation Sciences](https://www.manomet.org/flyways/)
